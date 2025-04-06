@@ -1,0 +1,17 @@
+.qodo
+# Node modules (si en el futuro se utiliza algún gestor de paquetes)
+node_modules/
+
+# Archivos de log
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación o minificados (si los generas en producción)
+/dist
+/build
+
+# Configuración local
+.env
